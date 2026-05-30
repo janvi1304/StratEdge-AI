@@ -1,0 +1,21 @@
+acquirer,target,industry_match,sector_match,market_cap_ratio,cash_ratio,success
+Microsoft,Activision,1,1,15,10,1
+Amazon,Whole Foods,0,0,20,12,1
+Disney,Pixar,1,1,18,8,1
+Meta,Instagram,1,1,25,15,1
+Google,YouTube,1,1,30,20,1
+Apple,Spotify,0,1,55,40,1
+Amazon,Netflix,1,1,12,9,1
+Microsoft,Nvidia,1,1,5,6,1
+Google,Spotify,0,1,40,18,1
+Apple,Disney,0,0,8,4,0
+Spotify,Apple,0,0,0.02,0.03,0
+Netflix,Microsoft,0,0,0.1,0.2,0
+Uber,Google,0,0,0.2,0.1,0
+Tesla,Amazon,0,0,0.4,0.3,0
+Intel,Microsoft,1,0,0.5,0.6,0
+AMD,Nvidia,1,1,0.2,0.15,0
+Airbnb,Amazon,0,0,0.1,0.2,0
+Salesforce,Microsoft,1,1,0.3,0.4,0
+Adobe,Google,1,1,0.25,0.2,0
+Netflix,Disney,1,1,0.4,0.3,0

@@ -1,0 +1,17 @@
+name,industry,sector,market_cap,cash,debt,description
+Apple,Technology,Consumer Electronics,2900,160,120,iPhone ecosystem and digital services company
+Microsoft,Technology,Cloud Software,3100,140,80,enterprise software and cloud computing leader
+Google,Technology,Internet Services,2100,120,30,search advertising and AI platform company
+Amazon,Technology,Ecommerce Cloud,1800,90,70,ecommerce and cloud infrastructure giant
+Netflix,Streaming,Entertainment Streaming,33,8,14,global streaming entertainment platform
+Spotify,Streaming,Music Streaming,50,4,2,music streaming and podcast platform
+Disney,Entertainment,Media Entertainment,180,12,45,media entertainment and streaming business
+Meta,Technology,Social Media,1200,65,25,social media and virtual reality company
+Nvidia,Technology,Semiconductors,2800,40,20,AI chips and GPU infrastructure company
+Tesla,Automotive,Electric Vehicles,900,30,10,electric vehicle and energy company
+Uber,Technology,Ride Sharing,180,12,9,mobility and delivery platform
+Airbnb,Technology,Travel Platform,85,10,2,online travel and accommodation marketplace
+Salesforce,Technology,Enterprise Software,260,15,8,CRM and enterprise cloud software company
+Adobe,Technology,Creative Software,240,8,5,creative design and digital media software company
+Intel,Technology,Semiconductors,130,20,45,semiconductor manufacturing and processor company
+AMD,Technology,Semiconductors,250,6,3,high performance semiconductor company

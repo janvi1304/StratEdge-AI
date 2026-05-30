@@ -1,0 +1,11 @@
+name,ticker,industry,sector,market_cap,cash,debt,revenue,ebitda,profit_margin,current_ratio,debt_to_equity
+Apple Inc.,AAPL,Consumer Electronics,Technology,4583.34,68.51,84.71,451.44,159.98,0.27152002,1.07,79.548
+Microsoft Corporation,MSFT,Software - Infrastructure,Technology,3344.58,78.23,125.43,318.27,184.46,0.39341998,1.283,30.271
+Alphabet Inc.,GOOGL,Internet Content & Information,Communication Services,4607.99,126.84,95.88,422.5,161.32,0.37919,1.922,20.026
+"Amazon.com, Inc.",AMZN,Internet Retail,Consumer Cyclical,2911.3,143.09,235.54,742.78,155.86,0.12224,1.177,53.3
+NVIDIA Corporation,NVDA,Semiconductors,Technology,5114.02,53.17,12.81,253.49,165.51,0.62966,3.441,6.555
+"Meta Platforms, Inc.",META,Internet Content & Information,Communication Services,1605.58,81.18,86.77,214.96,109.31,0.32837,2.348,35.608
+"Netflix, Inc.",NFLX,Entertainment,Communication Services,362.21,12.29,16.74,46.89,14.29,0.28521,1.407,53.788
+"Tesla, Inc.",TSLA,Auto Manufacturers,Consumer Cyclical,1636.71,44.74,15.89,97.88,11.09,0.03946,2.043,18.738
+Spotify Technology S.A.,SPOT,Internet Content & Information,Communication Services,102.33,6.29,0.48,17.53,2.45,0.15449001,2.06,5.943
+"Advanced Micro Devices, Inc.",AMD,Semiconductors,Technology,841.55,12.35,3.87,37.45,7.43,0.13374,2.725,6.005
